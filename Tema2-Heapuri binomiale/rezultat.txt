@@ -1,0 +1,11 @@
+s-a inserat valoarea 5
+s-a inserat valoarea 3
+s-a inserat valoarea 7
+s-a inserat valoarea 9
+s-a inserat valoarea 2
+minimul din heap este: 2
+s-a sters minimul din heap
+minimul din heap este: 3
+s-a sters valoarea 7
+s-a inserat valoarea 0
+minimul din heap este: 0
